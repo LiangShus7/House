@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<unisted.h>
+#include<unistd.h>
 
 int main()
 {
