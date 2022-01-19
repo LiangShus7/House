@@ -79,9 +79,11 @@
 
 # 在文章中插入超链接
 
-[唯品会](www.vip.com "跳转唯品会")
+[唯品会](https://www.vip.com "跳转唯品会")
 
-[哔哩哔哩](www.bilibili.com "b站")
+[哔哩哔哩](https://www.bilibili.com "b站")
 
 
+# 在文章中插入图片
 
+![tatum.jpg](https://s2.loli.net/2022/01/19/LqmrM9udiKWR34D.jpg)
